@@ -232,6 +232,7 @@ babel-node index.js --presets "es2015"           //Run the code
   ```
   
 ## Recursos
+**********************************************
 - http://facebook.github.io/graphql/                                //Especificación
 - https://github.com/facebook/graphql                               //Aplicación
 - https://github.com/graphql/graphql-js
