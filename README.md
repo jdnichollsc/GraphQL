@@ -12,6 +12,8 @@ Conexión flexible vía HTTP: No requiere una conexión DDP y se podría consult
 - **Client:**
 
   Una interfaz entre la UI y el servidor. Con React el cliente se asemeja al Redux store provider.
+
+![Apollo](images/apollo.png)
   
 # GraphQL
 **********************************************
