@@ -1,7 +1,6 @@
 # Apollo
 **********************************************
-Un ODM para Meteor, para trabajar con otras bases de datos NoSQL. Es un intermediario entre el cliente y los datos.
-Conexión flexible vía HTTP: No requiere una conexión DDP y se podría consultar otras APIs dentro de la aplicación sin mayor configuración.
+Es un intermediario entre el cliente y los datos. Permite una conexión flexible vía HTTP, es decir no requiere una conexión DDP y se puede consultar otras APIs dentro de la aplicación sin mayor configuración. En cuanto a **Meteor** permite trabajar con otras bases de datos en vez de **MongoDB**.
 
 - **Server:**
 
