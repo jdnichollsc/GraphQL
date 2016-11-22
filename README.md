@@ -18,12 +18,12 @@ Conexión flexible vía HTTP: No requiere una conexión DDP y se podría consult
 Lenguaje de consulta de aplicaciones. Es una especificación y Apollo es la implementación.
 Su propósito es cambiar la naturaleza de la relación datos-aplicación.
 Es una arquitectura con una sintaxis para la consulta de datos y es la base de Apollo.
-Es una mejora de las capas de consulta: REST, SOAP y DDP.
+Es una mejora de las capas de consulta: **REST**, **SOAP** y **DDP**.
 
 ![Approach](images/graphql.png)
 
 **La idea es evitar:**
- - Duplicación de código (Componentes reutilizables)
+ - Duplicación de código (Componentes reutilizables).
  - Enviar información extra a otros clientes cuando se agregan nuevos campos a endpoints existentes a medida que la aplicación lo requiere.
  
 **Objetivo:**
