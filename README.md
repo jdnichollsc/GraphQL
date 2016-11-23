@@ -235,7 +235,7 @@ babel-node index.js --presets "es2015"           //Run the code
 Nombre         | Enlaces
 ----------   | -------------
 Especificación | - http://facebook.github.io/graphql/ <br>- https://github.com/facebook/graphql
-Implementación | - https://github.com/graphql/graphql-js
+Implementación | - https://github.com/graphql/graphql-js <br>- https://github.com/kadirahq/lokka
 Diseño de alto nivel | - https://github.com/apollostack/apollo/blob/master/design/high-level-reactivity.md
 Introducción | - http://graphql.org/learn/ 
 Curso interactivo | - https://learngraphql.com/
