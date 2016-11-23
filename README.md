@@ -232,19 +232,13 @@ babel-node index.js --presets "es2015"           //Run the code
   
 ## Recursos
 **********************************************
-- http://facebook.github.io/graphql/                                //Especificación
-- https://github.com/facebook/graphql                               //Aplicación
-- https://github.com/graphql/graphql-js
-- https://github.com/apollostack/apollo/blob/master/design/high-level-reactivity.md  //Diseño de alto nivel
-
-- http://graphql.org/learn/                                         //Introducción
-- https://sandbox.learngraphql.com/                                 //Consola
-- https://learngraphql.com/                                         //Lecciones
-- https://github.com/graphql/graphql-js                             
-- https://github.com/chentsulin/awesome-graphql                     //Recursos
-- https://github.com/graphql/express-graphql                        //Create a GraphQL HTTP server with Express!
-- https://github.com/RisingStack/graffiti                           //Mongoose schema with GraphQL
-- https://github.com/mickhansen/graphql-sequelize                   //Use existing Sequelize ORM schemas with GraphQL
-- https://github.com/brysgo/graphql-bookshelf                       //Use existing BookshelfJS models.
-- https://github.com/kadirahq/graphql-blog-schema/blob/master/src/schema.js          //EJEMPLOS
-- https://github.com/graphql/graphql-js/blob/master/src/__tests__/starWarsSchema.js 
+Nombre         | Enlaces
+----------   | -------------
+Especificación | - http://facebook.github.io/graphql/ <br>- https://github.com/facebook/graphql
+Implementación | - https://github.com/graphql/graphql-js
+Diseño de alto nivel | - https://github.com/apollostack/apollo/blob/master/design/high-level-reactivity.md
+Introducción | - http://graphql.org/learn/ 
+Curso interactivo | - https://learngraphql.com/
+Consola | - https://sandbox.learngraphql.com/
+Ejemplos | - https://github.com/chentsulin/awesome-graphql <br>- https://github.com/kadirahq/graphql-blog-schema/blob/master/src/schema.js <br>- https://github.com/graphql/graphql-js/blob/master/src/__tests__/starWarsSchema.js 
+Proyectos | - https://github.com/graphql/express-graphql <br>- https://github.com/RisingStack/graffiti <br>- https://github.com/mickhansen/graphql-sequelize <br>- https://github.com/brysgo/graphql-bookshelf
