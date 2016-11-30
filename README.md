@@ -241,4 +241,8 @@ Introducción | - http://graphql.org/learn/
 Curso interactivo | - https://learngraphql.com/
 Consola | - https://sandbox.learngraphql.com/
 Ejemplos | - https://github.com/chentsulin/awesome-graphql <br>- https://github.com/kadirahq/graphql-blog-schema/blob/master/src/schema.js <br>- https://github.com/graphql/graphql-js/blob/master/src/__tests__/starWarsSchema.js 
-Proyectos | - https://github.com/graphql/express-graphql <br>- https://github.com/RisingStack/graffiti <br>- https://github.com/mickhansen/graphql-sequelize <br>- https://github.com/brysgo/graphql-bookshelf
+Crear GraphQL HTTP server con Express | - https://github.com/graphql/express-graphql
+Node.js GraphQL ORM | - https://github.com/RisingStack/graffiti 
+GraphQL & Relay para MySQL & Postgres via Sequelize | - https://github.com/mickhansen/graphql-sequelize
+GraphQL + BookshelfJS | - https://github.com/brysgo/graphql-bookshelf
+Crear servidores GraphQL listos para producción | - https://github.com/lucasbento/create-graphql
