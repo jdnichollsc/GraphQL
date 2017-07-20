@@ -246,3 +246,13 @@ Node.js GraphQL ORM | - https://github.com/RisingStack/graffiti
 GraphQL & Relay para MySQL & Postgres via Sequelize | - https://github.com/mickhansen/graphql-sequelize
 GraphQL + BookshelfJS | - https://github.com/brysgo/graphql-bookshelf
 Crear servidores GraphQL listos para producción | - https://github.com/lucasbento/create-graphql
+
+## Supporting
+I believe in Unicorns 🦄
+Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
+
+## Happy coding
+Made with <3
+
+<img width="150px" src="http://phaser.azurewebsites.net/assets/nicholls.png" align="right">
+
