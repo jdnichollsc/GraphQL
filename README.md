@@ -257,7 +257,7 @@ Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT**, **DOGE**:
 
 > Wallet address: 0x3F9fA8021B43ACe578C2352861Cf335449F33427
 
-Please let us know your contributions! 🙏
+Please let me know your contributions! 🙏
 
 ## Happy coding
 Made with <3
