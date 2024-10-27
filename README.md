@@ -247,17 +247,15 @@ GraphQL & Relay para MySQL & Postgres via Sequelize | - https://github.com/mickh
 GraphQL + BookshelfJS | - https://github.com/brysgo/graphql-bookshelf
 Crear servidores GraphQL listos para producción | - https://github.com/lucasbento/create-graphql
 
-## Supporting
+## Supporting 🍻
 I believe in Unicorns 🦄
 Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
 
-Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT**, **DOGE**:
+Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT/USDC**, **DOGE**, etc:
 
-![Wallet address](https://user-images.githubusercontent.com/2154886/123501719-84bf1900-d60c-11eb-882c-98a499cea323.png)
+> Wallet address: jdnichollsc.eth
 
-> Wallet address: 0x3F9fA8021B43ACe578C2352861Cf335449F33427
-
-Please let me know your contributions! 🙏
+Please let us know your contributions! 🙏
 
 ## Happy coding
 Made with <3
